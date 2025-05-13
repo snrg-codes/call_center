@@ -16,3 +16,5 @@ operators = [
     'naruto',
     'takashi'
 ]
+
+on_call_list = {}
